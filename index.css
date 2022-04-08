@@ -12,7 +12,6 @@ body{
    
 }
 
-
 .fonte-vermelha{
     color: red;
 }
@@ -48,7 +47,6 @@ body{
     background-color: grey;
 }
 
-
 .bnt-padrao{
     width: 100%;
     border-radius: 5px;
@@ -65,7 +63,6 @@ body{
     background-color: green;
 }
 
-
 .footer{
  
     border-top: 1px solid #333;
@@ -75,8 +72,5 @@ body{
     position: fixed;
     width: 100%;
     text-align: center;
-    
-
-    
     
 }
